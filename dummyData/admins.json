@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "_id": "1",
+            "name": "Talha Tariq",
+            "username": "talhatariq2000",
+            "email": "talhatariq2000@live.com"
+        },
+        {
+            "_id": "2",
+            "name": "Saad Khan",
+            "username": "hmsaadkhan",
+            "email": "khan.ji4028@gmail.com"
+        },
+        {
+            "_id": "3",
+            "name": "Maaz Iqbal",
+            "username": "maaziqbal",
+            "email": "maaziqbal2311@gmail.com"
+        }
+    ]
+}

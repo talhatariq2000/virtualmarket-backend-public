@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "_id": "1",
+            "fName": "Maaz",
+            "lName": "Iqbal",
+            "email": "maaziqbal2311@gmail.com",
+            "phone": "03021467366",
+            "password": "$2a$05$29/zcmlDByy1SbiVGFbdBuOPjmmOr9DBHMeOdtfl5d2/d7WhWZnRK",
+            "address": "1218, street 9, Muhala Ikhlaq",
+            "city": "1",
+            "emailVerified": "true",
+            "infoCompleted": "true"
+        },
+        {
+            "_id": "2",
+            "fName": "Aitesam",
+            "lName": "Javed",
+            "email": "fa18-bcs-093@cuilahore.edu.pk",
+            "phone": "03458062666",
+            "password": "$2a$05$29/zcmlDByy1SbiVGFbdBuOPjmmOr9DBHMeOdtfl5d2/d7WhWZnRK",
+            "address": "2010, street 10, main road",
+            "city": "2",
+            "emailVerified": "true",
+            "infoCompleted": "true"
+        },
+        {
+            "_id": "3",
+            "fName": "Talha",
+            "lName": "Tariq",
+            "email": "talhatariq2000@live.com",
+            "phone": "03334699138",
+            "password": "$2a$05$29/zcmlDByy1SbiVGFbdBuOPjmmOr9DBHMeOdtfl5d2/d7WhWZnRK",
+            "address": "2022A, street 17, zaman colony",
+            "city": "3"
+        }
+    ]
+}

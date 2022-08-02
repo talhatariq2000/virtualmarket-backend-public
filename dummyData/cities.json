@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "_id": "1",
+            "name": "Abbottabad"
+        },
+        {
+            "_id": "2",
+            "name": "Ahmadpur East"
+        },
+        {
+            "_id": "3",
+            "name": "Bahawalnagar"
+        },
+        {
+            "_id": "4",
+            "name": "Bahawalpur"
+        },
+        {
+            "_id": "5",
+            "name": "Burewala"
+        },
+        {
+            "_id": "6",
+            "name": "Chakdara"
+        },
+        {
+            "_id": "7",
+            "name": "Chakwal"
+        },
+        {
+            "_id": "8",
+            "name": "Chaman"
+        },
+        {
+            "_id": "9",
+            "name": "Chiniot"
+        },
+        {
+            "_id": "10",
+            "name": "Chishtian"
+        },
+        {
+            "_id": "11",
+            "name": "Dadu"
+        },
+        {
+            "_id": "12",
+            "name": "Dera Ghazi Khan"
+        },
+        {
+            "_id": "13",
+            "name": "Dera Ismail Khan"
+        },
+        {
+            "_id": "14",
+            "name": "Faisalabad"
+        },
+        {
+            "_id": "15",
+            "name": "Gujranwala"
+        },
+        {
+            "_id": "16",
+            "name": "Islamabad"
+        },
+        {
+            "_id": "17",
+            "name": "Karachi"
+        },
+        {
+            "_id": "18",
+            "name": "Lahore"
+        },
+        {
+            "_id": "19",
+            "name": "Multan"
+        },
+        {
+            "_id": "20",
+            "name": "Peshawar"
+        },
+        {
+            "_id": "21",
+            "name": "Quetta"
+        },
+        {
+            "_id": "22",
+            "name": "Rawalpindi"
+        }
+    ]    
+}

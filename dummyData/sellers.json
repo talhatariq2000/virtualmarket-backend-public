@@ -1,0 +1,61 @@
+{
+    "data": [
+        {
+            "_id": "1",
+            "fName": "Maaz",
+            "lName": "Iqbal",
+            "cnicNumber": "3520198785345",
+            "email": "maaziqbal2311@gmail.com",
+            "password": "$2a$05$yF/5498u8hI2pxlChZw81urHN3h6R0Lsn4vayL44zquPJ5LyJgRji",
+            "storeName": "ShopNow",
+            "address": "Shop.no.12, street 9, Shah Alam Market",
+            "city": "1",
+            "onlinePaymentOption": "true",
+            "phone": "03056754365",
+            "deliveryCharge": 250,
+            "emailVerified": "true",
+            "infoCompleted": "true",
+            "avatar": {
+                "link": "https://res.cloudinary.com/ddpdr9nvh/image/upload/v1647162487/blankProfilePic_gbdntn.png"
+            }
+        },
+        {
+            "_id": "2",
+            "fName": "Saad",
+            "lName": "Khan",
+            "cnicNumber": "3620198785345",
+            "email": "h.saadkhan501@gmail.com",
+            "password": "$2a$05$yF/5498u8hI2pxlChZw81urHN3h6R0Lsn4vayL44zquPJ5LyJgRji",
+            "storeName": "SuperStore",
+            "address": "Shop.no.14, street 8, Shah Alam Market",
+            "city": "2",
+            "onlinePaymentOption": "false",
+            "phone": "03044754365",
+            "deliveryCharge": 350,
+            "emailVerified": "false",
+            "infoCompleted": "true",
+            "avatar": {
+                "link": "https://i.pinimg.com/originals/58/b6/6c/58b66cbba81130a1f93ba409bfac0a5c.jpg"
+            }
+        },
+        {
+            "_id": "3",
+            "fName": "Talha",
+            "lName": "Tariq",
+            "cnicNumber": "8765198785345",
+            "email": "talhatariq2000@live.com",
+            "password": "$2a$05$yF/5498u8hI2pxlChZw81urHN3h6R0Lsn4vayL44zquPJ5LyJgRji",
+            "storeName": "BuyQuick",
+            "address": "Shop.no.15, street 2, Droge Ala Market",
+            "city": "3",
+            "onlinePaymentOption": "false",
+            "phone": "03234754365",
+            "deliveryCharge": 1000,
+            "emailVerified": "false",
+            "infoCompleted": "false",
+            "avatar": {
+                "link": "https://cdn.vox-cdn.com/thumbor/SAGtvHlhcC9wSrVq3m6Qg06CFSI=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/23357722/Obi_Wan_Kenobi___Announcement___Disney__0_7_screenshot__1_.png"
+            }
+        }
+    ]
+}

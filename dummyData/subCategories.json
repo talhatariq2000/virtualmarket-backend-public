@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "_id": "1",
+            "categoryId": 1,
+            "name": "Heater"
+        },
+        {
+            "_id": "2",
+            "categoryId": 2,
+            "name": "Cricket"
+        },
+        {
+            "_id": "3",
+            "categoryId": 3,
+            "name": "Makeup Kit"
+        },
+        {
+            "_id": "4",
+            "categoryId": 4,
+            "name": "Vitamin"
+        }
+    ]
+}

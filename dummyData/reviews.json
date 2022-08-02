@@ -1,0 +1,32 @@
+{
+   "data": [
+       {
+           "_id": "1",
+           "Product": 1,
+           "Buyer": 1,
+           "comment": "Good",
+           "rating": 4.5
+       },
+       {
+           "_id": "2",
+           "Product": 2,
+           "Buyer": 2,
+           "comment": "Excellent quality",
+           "rating": 4.8
+       },
+       {
+        "_id": "3",
+        "Product": 3,
+        "Buyer": 3,
+        "comment": "average",
+        "rating": 3.5
+       },
+       {
+        "_id": "4",
+        "Product": 4,
+        "Buyer": 4,
+        "comment": "better than last one",
+        "rating": 3.8
+       }
+   ] 
+}

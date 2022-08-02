@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "_id": "1",
+            "fromID": 2,
+            "toID": 3,
+            "direction": 0, 
+            "message": "waiting for your response",
+            "offerID": 5,
+            "msgTime": "2022-02-01 13:49:51"
+        },
+        {
+            "_id": "2",
+            "fromID": 3,
+            "toID": 4,
+            "direction": 1, 
+            "message": "Is my order ready?",
+            "offerID": 3,
+            "msgTime": "2022-02-02 11:42:34"
+        },
+        {
+            "_id": "3",
+            "fromID": 4,
+            "toID": 5,
+            "direction": 1, 
+            "message": "I am in love with you?",
+            "offerID": 7,
+            "msgTime": "2022-02-03 01:12:22"
+        },
+        {
+            "_id": "4",
+            "fromID": 5,
+            "toID": 6,
+            "direction": 0, 
+            "message": "Can I change my order?",
+            "offerID": 9,
+            "msgTime": "2022-02-02 14:12:14"
+        }
+    ]
+}

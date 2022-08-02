@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "_id": "1",
+            "quantity": 10,
+            "price": 1000,
+            "status": "Active"
+        },
+        {
+            "_id": "2",
+            "quantity": 15,
+            "price": 10000,
+            "status": "Active"
+        },
+        {
+            "_id": "3",
+            "quantity": 10,
+            "price": 12000,
+            "status": "Active"
+        }
+    ]
+}
